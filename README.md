@@ -1,4 +1,4 @@
-<h1 align="center">Zephyrex21</h1>
+<h1 align="center"Saurabh Raj Shekhar</h1>
 <p align="center">
   <i>AI/ML Enthusiast • Data Science Student • Frontend Developer</i>
 </p>
@@ -60,6 +60,22 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+- 📌 Personal portfolio showcasing my projects, skills, and development journey  
+- ⚙️ Tech: HTML, CSS, JavaScript, Netlify  
+- 🌐 Live: https://saurabh-creations.netlify.app/  
+
+---
+
+### 🔹 Red-Black Tree Visualizer
+- 📌 Interactive visualization tool to understand Red-Black Tree operations and balancing  
+- ⚙️ Tech: JavaScript, Data Structures, Frontend Development  
+- 🌐 Live: https://rbt-visualizer.netlify.app/  
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&theme=github_dark&hide_border=true&count_private=true" height="165"/>
@@ -76,9 +92,9 @@
 ---
 
 ## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zephyrex21&theme=onedark&row=1&column=6"/>
-</p>
+- 🎯 Active contributor and consistent learner  
+- 🚀 Building AI/ML-based projects  
+- 📈 Improving problem-solving through DSA  
 
 ---
 
