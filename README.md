@@ -1,4 +1,4 @@
-<h1 align="center"Saurabh Raj Shekhar</h1>
+<h1 align="center">Saurabh Raj</h1>
 <p align="center">
   <i>AI/ML Enthusiast • Data Science Student • Frontend Developer</i>
 </p>
