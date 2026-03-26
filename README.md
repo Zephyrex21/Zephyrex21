@@ -77,7 +77,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zephyrex21&theme=radical&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zephyrex21&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Zephyrex21&icon=1&color=0"/>
+<img src="https://komarev.com/ghpvc/?username=Zephyrex21&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
