@@ -12,8 +12,6 @@
 
 ---
 
-<!-- Existing Content Starts -->
-
 #  About Me:
 🚀 CSE ( Data Science ) NSUT'28<br>🔭 Working on: AI/ML Projects<br>🌱 Learning: AI/ML, DSA<br>💬 Ask me about: Programming, Frontend Development
 
@@ -26,25 +24,17 @@
 
 ---
 
-<!-- NEW ADDITION: Contribution Graph -->
-## ⚡ Contribution Activity
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="170"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zephyrex21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zephyrex21&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-<!-- NEW ADDITION: Snake Animation -->
-## 🐍 Contribution Snake
+## ⚡ Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +49,6 @@
 
 ---
 
-<!-- NEW ADDITION: Footer -->
 <p align="center">
   ✦ Built with passion • Powered by curiosity ✦
 </p>
