@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+<h2 align="center"><b>About Me</b></h2>
 
 - 🎓 2nd Year, 4th Semester — B.Tech CSE (Data Science) @ NSUT '28
 - 🔭 Currently building projects in AI/ML and Data Structures
@@ -15,7 +15,7 @@
 
 ---
 
-## Connect With Me
+<h2 align="center"><b>Connect With Me</b></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -28,7 +28,7 @@
 
 ---
 
-## Tech Stack
+<h2 align="center"><b>Tech Stack</b></h2>
 
 <p align="center">
   <!-- Languages -->
@@ -63,18 +63,18 @@
 
 ---
 
-## Featured Projects
+<h2 align="center"><b>Featured Projects</b></h2>
 
-### Automata Visualizer
+<h3>⬡ &nbsp; Automata Visualizer</h3>
+
 Interactive simulation tool for Finite Automata (DFA/NFA) — designed to make Theory of Computation concepts visual and hands-on.
 
 `JavaScript` &nbsp; `Automata Theory` &nbsp; `Frontend`
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Zephyrex21/Automata-Visualizer) &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?logo=netlify&logoColor=white&style=flat-square)](https://automata-lab.netlify.app/)
 
----
+<h3>⬡ &nbsp; Red-Black Tree Visualizer</h3>
 
-### Red-Black Tree Visualizer
 Step-by-step visualization of RBT insertions, deletions, and rotations — built to make self-balancing BSTs intuitive and explorable.
 
 `JavaScript` &nbsp; `Data Structures` &nbsp; `Frontend`
@@ -83,7 +83,7 @@ Step-by-step visualization of RBT insertions, deletions, and rotations — built
 
 ---
 
-## GitHub Activity
+<h2 align="center"><b>GitHub Activity</b></h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-dark&hide_border=true" />
@@ -91,15 +91,19 @@ Step-by-step visualization of RBT insertions, deletions, and rotations — built
 
 ---
 
-## Dev Quote
+<h2 align="center"><b>Dev Quote</b></h2>
 
-<p align="center">
+<br>
 
-> *"First, solve the problem. Then, write the code."*
->
-> — John Johnson
+<div align="center">
 
-</p>
+### *❝ &nbsp; First, solve the problem. Then, write the code. &nbsp; ❞*
+
+**— John Johnson**
+
+</div>
+
+<br>
 
 ---
 
