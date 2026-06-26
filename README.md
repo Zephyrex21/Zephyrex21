@@ -63,26 +63,6 @@
 
 ---
 
-<h2 align="center"><b>Featured Projects</b></h2>
-
-<h3>⬡ &nbsp; Automata Visualizer</h3>
-
-Interactive simulation tool for Finite Automata (DFA/NFA) — designed to make Theory of Computation concepts visual and hands-on.
-
-`JavaScript` &nbsp; `Automata Theory` &nbsp; `Frontend`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Zephyrex21/Automata-Visualizer) &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?logo=netlify&logoColor=white&style=flat-square)](https://automata-lab.netlify.app/)
-
-<h3>⬡ &nbsp; Red-Black Tree Visualizer</h3>
-
-Step-by-step visualization of RBT insertions, deletions, and rotations — built to make self-balancing BSTs intuitive and explorable.
-
-`JavaScript` &nbsp; `Data Structures` &nbsp; `Frontend`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Zephyrex21/RBT_Visualizer) &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?logo=netlify&logoColor=white&style=flat-square)](https://rbt-visualizer.netlify.app/)
-
----
-
 <h2 align="center"><b>GitHub Activity</b></h2>
 
 <p align="center">
