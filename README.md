@@ -1,96 +1,141 @@
-<h1 align="center">Saurabh Raj Shekhar</h1>
+<h1 align="center">Hi, I'm Saurabh 👋</h1>
 
 <p align="center">
-  <i>AI/ML Enthusiast &nbsp;•&nbsp; Data Science Student &nbsp;•&nbsp; Frontend Developer</i>
+  <i>Full-Stack Developer &nbsp;•&nbsp; CSE (Data Science) @ NSUT Delhi &nbsp;•&nbsp; Building AI-powered & premium web experiences</i>
+</p>
+
+<p align="center">
+  <a href="https://saurabhdev-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Zephyrex_21/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:shekharsaurabhraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center"><b>About Me</b></h2>
+### About Me
 
-- 🎓 2nd Year, 4th Semester — B.Tech CSE (Data Science) @ NSUT '28
-- 🔭 Currently building projects in AI/ML and Data Structures
-- 🌱 Exploring machine learning concepts and algorithmic problem solving
-- 💬 Always open to conversations on programming and frontend development
+- 🎓 4th Semester, B.Tech CSE (Data Science) @ NSUT, Delhi — Class of '28
+- 🛠️ Full-stack developer building end-to-end products with the **MERN stack**, **React + TypeScript**, and clean, Apple-inspired UI
+- 🤖 Exploring **AI/ML** — currently building **HeatWatch India**, an urban heat island analysis tool using satellite data and XGBoost, for ISRO Bharatiya Antariksh Hackathon 2026
+- 🧩 Built a published **Claude Skill** for LeetCode interview prep, shared with the developer community
+- 🌱 Always shipping — from interactive DSA/automata visualizers to production-deployed web apps
+- 💬 Open to conversations on frontend engineering, AI/ML, and clean product design
 
 ---
 
-<h2 align="center"><b>Connect With Me</b></h2>
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🕰️ AURIENT Genève**
+Scroll-driven luxury watch brand showcase with canvas-based animation, built on the MERN stack.
+`React` `MongoDB` `Canvas API` `Animation`
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 HeatWatch India**
+Full-stack AI/ML app analyzing urban heat islands across 20 Indian cities using Landsat data, XGBoost & SHAP explainability. Built for ISRO BAH 2026.
+`Python` `XGBoost` `React` `Render` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Cryptex File Sharing**
+A secure, token-based file sharing platform built with the MERN stack and Supabase Storage.
+`Node.js` `Express` `MongoDB` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+**🔑 Zephyr Auth**
+A full authentication system (JWT + bcrypt) with a polished, Apple-inspired frontend and theme-aware UI.
+`Node.js` `Express` `JWT` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⬡ Automata Visualizer**
+Interactive simulator for DFA/NFA, making Theory of Computation concepts visual and hands-on.
+[`Live Demo`](https://automata-lab.netlify.app/) · `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**🌲 Red-Black Tree Visualizer**
+Step-by-step visualization of RBT insertions, deletions, and rotations.
+[`Live Demo`](https://rbt-visualizer.netlify.app/) · `JavaScript`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Zephyrex_21/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/></a>
-  <a href="https://codepen.io/Zephyrex21"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
-  <a href="https://instagram.com/_raj.shekharrr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://reddit.com/user/AcrobaticNight2349"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/></a>
-  <a href="mailto:shekharsaurabhraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <i>→ <a href="https://saurabhdev-xi.vercel.app/">See the full portfolio</a> for live demos, write-ups, and more projects</i>
 </p>
 
 ---
 
-<h2 align="center"><b>Tech Stack</b></h2>
+### Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <br/>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <!-- Backend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <br/>
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <!-- Data -->
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <br/>
-  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center"><b>GitHub Activity</b></h2>
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
-
-<h2 align="center"><b>Dev Quote</b></h2>
-
-<br>
 
 <div align="center">
 
-### *❝ &nbsp; First, solve the problem. Then, write the code. &nbsp; ❞*
-
+### *"First, solve the problem. Then, write the code."*
 **— John Johnson**
 
+<br/>
+
+<i>Building consistently • Learning continuously • Growing every day</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Zephyrex21&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </div>
-
-<br>
-
----
-
-<p align="center">
-  <i>Building consistently &nbsp;•&nbsp; Learning continuously &nbsp;•&nbsp; Growing every day</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zephyrex21&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
