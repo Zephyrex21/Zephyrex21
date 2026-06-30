@@ -116,8 +116,10 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/Zephyrex21?style=for-the-badge&logo=github&color=181717&labelColor=1a1a1a&logoColor=white&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Zephyrex21?style=for-the-badge&logo=github&color=181717&labelColor=1a1a1a&logoColor=white&label=Stars"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
 
