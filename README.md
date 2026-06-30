@@ -4,10 +4,10 @@
 
 **Full-Stack Developer · CSE (Data Science), NSUT Delhi**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saurabhdev--xi.vercel.app-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://saurabhdev-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Zephyrex__21-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zephyrex_21/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shekharsaurabhraj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://saurabhdev-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zephyrex_21/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shekharsaurabhraj@gmail.com)
 
 </div>
 
@@ -66,7 +66,7 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 <td valign="top"><sub>Python, XGBoost, React</sub></td>
 <td valign="top">
 <a href="https://github.com/Zephyrex21/urban-heat-mitigation"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://urban-heat-mitigation-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://urban-heat-mitigation-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -78,7 +78,7 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 <td valign="top"><sub>JavaScript, React, GitHub API</sub></td>
 <td valign="top">
 <a href="https://github.com/Zephyrex21/github-contribution-radar"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github-contribution-radar.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github-contribution-radar.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -90,7 +90,7 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 <td valign="top"><sub>Node.js, Express, MongoDB, Supabase</sub></td>
 <td valign="top">
 <a href="https://github.com/Zephyrex21/Cryptex_File_Sharing"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://cryptex-file-sharing.onrender.com/"><img src="https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=white"/></a>
+<a href="https://cryptex-file-sharing.onrender.com/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -102,7 +102,7 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 <td valign="top"><sub>JavaScript, HTML, CSS</sub></td>
 <td valign="top">
 <a href="https://github.com/Zephyrex21/Automata-Visualizer"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://automata-lab.netlify.app/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="https://automata-lab.netlify.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -116,8 +116,8 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zephyrex21&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrex21&layout=compact&theme=github_dark&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrex21&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
 
