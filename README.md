@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Saurabh 👋</h1>
+<h1 align="center">Hi, I'm Saurabh</h1>
 
 <p align="center">
-  <i>Full-Stack Developer &nbsp;•&nbsp; CSE (Data Science) @ NSUT Delhi &nbsp;•&nbsp; Building AI-powered & premium web experiences</i>
+  Full-Stack Developer &nbsp;&bull;&nbsp; CSE (Data Science) @ NSUT Delhi
 </p>
 
 <p align="center">
@@ -13,73 +13,12 @@
 
 ---
 
-### About Me
+### About
 
-- 🎓 4th Semester, B.Tech CSE (Data Science) @ NSUT, Delhi — Class of '28
-- 🛠️ Full-stack developer building end-to-end products with the **MERN stack**, **React + TypeScript**, and clean, Apple-inspired UI
-- 🤖 Exploring **AI/ML** — currently building **HeatWatch India**, an urban heat island analysis tool using satellite data and XGBoost, for ISRO Bharatiya Antariksh Hackathon 2026
-- 🧩 Built a published **Claude Skill** for LeetCode interview prep, shared with the developer community
-- 🌱 Always shipping — from interactive DSA/automata visualizers to production-deployed web apps
-- 💬 Open to conversations on frontend engineering, AI/ML, and clean product design
-
----
-
-### Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🕰️ AURIENT Genève**
-Scroll-driven luxury watch brand showcase with canvas-based animation, built on the MERN stack.
-`React` `MongoDB` `Canvas API` `Animation`
-
-</td>
-<td width="50%" valign="top">
-
-**🌍 HeatWatch India**
-Full-stack AI/ML app analyzing urban heat islands across 20 Indian cities using Landsat data, XGBoost & SHAP explainability. Built for ISRO BAH 2026.
-`Python` `XGBoost` `React` `Render` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔐 Cryptex File Sharing**
-A secure, token-based file sharing platform built with the MERN stack and Supabase Storage.
-`Node.js` `Express` `MongoDB` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-**🔑 Zephyr Auth**
-A full authentication system (JWT + bcrypt) with a polished, Apple-inspired frontend and theme-aware UI.
-`Node.js` `Express` `JWT` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⬡ Automata Visualizer**
-Interactive simulator for DFA/NFA, making Theory of Computation concepts visual and hands-on.
-[`Live Demo`](https://automata-lab.netlify.app/) · `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**🌲 Red-Black Tree Visualizer**
-Step-by-step visualization of RBT insertions, deletions, and rotations.
-[`Live Demo`](https://rbt-visualizer.netlify.app/) · `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <i>→ <a href="https://saurabhdev-xi.vercel.app/">See the full portfolio</a> for live demos, write-ups, and more projects</i>
-</p>
+4th semester B.Tech student, CSE (Data Science), NSUT.
+I build full-stack web apps with the MERN stack and React/TypeScript.
+Currently working on HeatWatch India, an AI/ML project for ISRO BAH 2026.
+I also build small developer tools, like a Claude Skill for LeetCode prep.
 
 ---
 
@@ -101,13 +40,54 @@ Step-by-step visualization of RBT insertions, deletions, and rotations.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AURIENT Geneve**
+Scroll-driven luxury watch brand showcase with canvas animation.
+MERN, Canvas API
+
+</td>
+<td width="50%" valign="top">
+
+**HeatWatch India**
+AI/ML app analyzing urban heat islands across 20 Indian cities. Built for ISRO BAH 2026.
+Python, XGBoost, React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cryptex File Sharing**
+Secure, token-based file sharing platform.
+Node.js, Express, MongoDB, Supabase
+
+</td>
+<td width="50%" valign="top">
+
+**Zephyr Auth**
+Authentication system with JWT and a clean, themed frontend.
+Node.js, Express, JWT, MongoDB
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://saurabhdev-xi.vercel.app/">See more projects on my portfolio</a>
 </p>
 
 ---
@@ -125,17 +105,6 @@ Step-by-step visualization of RBT insertions, deletions, and rotations.
 
 ---
 
-<div align="center">
-
-### *"First, solve the problem. Then, write the code."*
-**— John Johnson**
-
-<br/>
-
-<i>Building consistently • Learning continuously • Growing every day</i>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Zephyrex21&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zephyrex21&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
