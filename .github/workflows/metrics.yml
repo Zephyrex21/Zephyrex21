@@ -26,3 +26,16 @@ jobs:
           plugin_calendar: yes
           config_display: large
           config_timezone: Asia/Kolkata
+          extras_css: |
+            @media (prefers-color-scheme: dark) {
+              :root {
+                --color-calendar-graph-day-L0-bg: #161b22;
+                --color-calendar-graph-day-L1-bg: #0e4429;
+                --color-calendar-graph-day-L2-bg: #006d32;
+                --color-calendar-graph-day-L3-bg: #26a641;
+                --color-calendar-graph-day-L4-bg: #39d353;
+              }
+              .calendar .day {
+                outline: 1px solid rgba(240, 246, 252, 0.1);
+              }
+            }
