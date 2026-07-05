@@ -5,7 +5,7 @@
 **Full-Stack Developer · CSE (Data Science), NSUT Delhi**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://saurabhdev-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-raj-shekhar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zephyrex_21/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shekharsaurabhraj@gmail.com)
 
