@@ -4,10 +4,33 @@
 
 **Full-Stack Developer · CSE (Data Science), NSUT Delhi**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://saurabhdev-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-raj-shekhar/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zephyrex_21/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shekharsaurabhraj@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Zephyrex_21/">
+  <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=0A101F" alt="LeetCode" />
+</a>
+&nbsp;&nbsp;
+<a href="https://saurabh-creations.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/_raj.shekharrr">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codepen.io/Zephyrex21">
+  <img src="https://img.shields.io/badge/CodePen-0A101F?style=for-the-badge&logo=codepen&logoColor=22D3EE&labelColor=0A101F" alt="CodePen" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shekharsaurabhraj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
 
 </div>
 
