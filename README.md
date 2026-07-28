@@ -152,7 +152,6 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 </picture>
 </div>
 
-
 <div align="center">
 <sub>First, solve the problem. Then, write the code. — John Johnson</sub>
 <br><br>
