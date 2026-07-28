@@ -1,0 +1,90 @@
+<svg width="1180" height="487.5" viewBox="0 0 1180 487.5" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="cardBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0D1424"/>
+    <stop offset="100%" stop-color="#0A101F"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1178" height="485.5" rx="12" fill="url(#cardBg2)" stroke="#22D3EE" stroke-opacity="0.15"/>
+<text x="46" y="50" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#22D3EE" textLength="70.2" lengthAdjust="spacingAndGlyphs">// Languages</text><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.00s" fill="freeze"/>
+  <rect x="46" y="54.5" width="52.3" height="31.5" rx="8" fill="#0D1424" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="60" y="74.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="24.3" lengthAdjust="spacingAndGlyphs">C++</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.03s" fill="freeze"/>
+  <rect x="108.3" y="54.5" width="76.6" height="31.5" rx="8" fill="#0D1424" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="122.3" y="74.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="48.6" lengthAdjust="spacingAndGlyphs">Python</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.06s" fill="freeze"/>
+  <rect x="194.89999999999998" y="54.5" width="109.0" height="31.5" rx="8" fill="#0D1424" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="208.89999999999998" y="74.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="81.0" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.09s" fill="freeze"/>
+  <rect x="313.9" y="54.5" width="109.0" height="31.5" rx="8" fill="#0D1424" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="327.9" y="74.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="81.0" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+</g><text x="46" y="133.5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#A78BFA" textLength="62.4" lengthAdjust="spacingAndGlyphs">// Frontend</text><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.12s" fill="freeze"/>
+  <rect x="46" y="138.0" width="68.5" height="31.5" rx="8" fill="#0D1424" stroke="#A78BFA" stroke-opacity="0.45"/>
+  <text x="60" y="158.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="40.5" lengthAdjust="spacingAndGlyphs">React</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.15s" fill="freeze"/>
+  <rect x="124.5" y="138.0" width="60.4" height="31.5" rx="8" fill="#0D1424" stroke="#A78BFA" stroke-opacity="0.45"/>
+  <text x="138.5" y="158.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="32.4" lengthAdjust="spacingAndGlyphs">Vite</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.18s" fill="freeze"/>
+  <rect x="194.9" y="138.0" width="117.1" height="31.5" rx="8" fill="#0D1424" stroke="#A78BFA" stroke-opacity="0.45"/>
+  <text x="208.9" y="158.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="89.1" lengthAdjust="spacingAndGlyphs">TailwindCSS</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.21s" fill="freeze"/>
+  <rect x="322.0" y="138.0" width="68.5" height="31.5" rx="8" fill="#0D1424" stroke="#A78BFA" stroke-opacity="0.45"/>
+  <text x="336.0" y="158.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="40.5" lengthAdjust="spacingAndGlyphs">HTML5</text>
+</g><text x="46" y="217.0" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#10B981" textLength="54.6" lengthAdjust="spacingAndGlyphs">// Backend</text><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.24s" fill="freeze"/>
+  <rect x="46" y="221.5" width="84.7" height="31.5" rx="8" fill="#0D1424" stroke="#10B981" stroke-opacity="0.45"/>
+  <text x="60" y="241.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="56.7" lengthAdjust="spacingAndGlyphs">Node.js</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.27s" fill="freeze"/>
+  <rect x="140.7" y="221.5" width="109.0" height="31.5" rx="8" fill="#0D1424" stroke="#10B981" stroke-opacity="0.45"/>
+  <text x="154.7" y="241.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="81.0" lengthAdjust="spacingAndGlyphs">Express.js</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.30s" fill="freeze"/>
+  <rect x="259.7" y="221.5" width="100.9" height="31.5" rx="8" fill="#0D1424" stroke="#10B981" stroke-opacity="0.45"/>
+  <text x="273.7" y="241.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="72.9" lengthAdjust="spacingAndGlyphs">REST APIs</text>
+</g><text x="46" y="300.5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#F472B6" textLength="70.2" lengthAdjust="spacingAndGlyphs">// Data + ML</text><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.33s" fill="freeze"/>
+  <rect x="46" y="305.0" width="68.5" height="31.5" rx="8" fill="#0D1424" stroke="#F472B6" stroke-opacity="0.45"/>
+  <text x="60" y="325.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="40.5" lengthAdjust="spacingAndGlyphs">NumPy</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/>
+  <rect x="124.5" y="305.0" width="76.6" height="31.5" rx="8" fill="#0D1424" stroke="#F472B6" stroke-opacity="0.45"/>
+  <text x="138.5" y="325.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="48.6" lengthAdjust="spacingAndGlyphs">Pandas</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.39s" fill="freeze"/>
+  <rect x="211.1" y="305.0" width="84.7" height="31.5" rx="8" fill="#0D1424" stroke="#F472B6" stroke-opacity="0.45"/>
+  <text x="225.1" y="325.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="56.7" lengthAdjust="spacingAndGlyphs">XGBoost</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.42s" fill="freeze"/>
+  <rect x="305.8" y="305.0" width="84.7" height="31.5" rx="8" fill="#0D1424" stroke="#F472B6" stroke-opacity="0.45"/>
+  <text x="319.8" y="325.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="56.7" lengthAdjust="spacingAndGlyphs">MongoDB</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.45s" fill="freeze"/>
+  <rect x="400.5" y="305.0" width="92.8" height="31.5" rx="8" fill="#0D1424" stroke="#F472B6" stroke-opacity="0.45"/>
+  <text x="414.5" y="325.07" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="64.8" lengthAdjust="spacingAndGlyphs">Supabase</text>
+</g><text x="46" y="384.0" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="600" fill="#FBBF24" textLength="54.6" lengthAdjust="spacingAndGlyphs">// Tooling</text><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/>
+  <rect x="46" y="388.5" width="52.3" height="31.5" rx="8" fill="#0D1424" stroke="#FBBF24" stroke-opacity="0.45"/>
+  <text x="60" y="408.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="24.3" lengthAdjust="spacingAndGlyphs">Git</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.51s" fill="freeze"/>
+  <rect x="108.3" y="388.5" width="141.4" height="31.5" rx="8" fill="#0D1424" stroke="#FBBF24" stroke-opacity="0.45"/>
+  <text x="122.3" y="408.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="113.4" lengthAdjust="spacingAndGlyphs">GitHub Actions</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.54s" fill="freeze"/>
+  <rect x="259.7" y="388.5" width="76.6" height="31.5" rx="8" fill="#0D1424" stroke="#FBBF24" stroke-opacity="0.45"/>
+  <text x="273.7" y="408.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="48.6" lengthAdjust="spacingAndGlyphs">Vercel</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.57s" fill="freeze"/>
+  <rect x="346.29999999999995" y="388.5" width="76.6" height="31.5" rx="8" fill="#0D1424" stroke="#FBBF24" stroke-opacity="0.45"/>
+  <text x="360.29999999999995" y="408.57" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0" textLength="48.6" lengthAdjust="spacingAndGlyphs">Render</text>
+</g>
+</svg>
