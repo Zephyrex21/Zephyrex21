@@ -143,8 +143,20 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 <img width="49%" src="https://github-readme-stats-nine-ashen-76.vercel.app/api?username=Zephyrex21&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-nine-ashen-76.vercel.app/api/top-langs/?username=Zephyrex21&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+<br>
 
 <br>
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephyrex21/Zephyrex21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephyrex21/Zephyrex21/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zephyrex21/Zephyrex21/output/github-snake.svg" />
+</picture>
+</div>
+
 
 <div align="center">
 <sub>First, solve the problem. Then, write the code. — John Johnson</sub>
