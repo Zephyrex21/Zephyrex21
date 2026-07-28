@@ -1,0 +1,18 @@
+<svg width="1180" height="70" viewBox="0 0 1180 70" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient>
+</defs>
+<g font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace">
+  <text x="46" y="24" font-size="14" fill="#5B6478" textLength="134.4" lengthAdjust="spacingAndGlyphs">$ ls tech-stack/</text>
+  <g transform="translate(46,44)">
+    <rect x="1" y="-3" width="18" height="4" rx="1" fill="none" stroke="#A78BFA" stroke-width="1.8"/><rect x="1" y="3" width="18" height="4" rx="1" fill="none" stroke="#A78BFA" stroke-width="1.8"/>
+    <text x="34" y="16" font-size="22" font-weight="700" fill="#F8FAFC" textLength="132.0" lengthAdjust="spacingAndGlyphs">Tech Stack</text>
+  </g>
+  <rect x="46" y="62" width="0" height="3" rx="1.5" fill="url(#lineGrad)">
+    <animate attributeName="width" from="0" to="220" dur="1s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</g>
+</svg>
