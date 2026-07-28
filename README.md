@@ -1,10 +1,8 @@
 <div align="center">
 
-# Saurabh Raj Shekhar
+<img src="https://raw.githubusercontent.com/Zephyrex21/Zephyrex21/main/banner-dark.svg" width="100%" alt="Saurabh Raj Shekhar" />
 
-**Full-Stack Developer · CSE (Data Science), NSUT Delhi**
-
-<div align="center">
+<br><br>
 
 <a href="https://www.linkedin.com/in/saurabh-raj-shekhar-8a92b73b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,9 +29,6 @@
 </a>
 
 </div>
-
-</div>
-
 <br>
 
 ## About
