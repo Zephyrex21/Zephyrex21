@@ -33,7 +33,7 @@
 
 ## About
 
-I'm a 4th semester B.Tech student in CSE (Data Science) at NSUT, Delhi.
+I'm a 5th semester B.Tech student in CSE (Data Science) at NSUT, Delhi.
 I build full-stack web applications using the MERN stack and React with TypeScript.
 I'm currently developing HeatWatch India, an AI/ML project for ISRO BAH 2026.
 I also build small developer tools, including a Claude Skill for LeetCode interview prep.
