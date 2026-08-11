@@ -31,7 +31,7 @@
 </div>
 <br>
 
-<p align="center"><i>From hybrid-retrieval RAG pipelines to Grad-CAM running live in the browser — I build the parts most portfolios only fake.</i></p>
+<p align="center"><i>An answer without a source is just a belief — I build systems that show their work.</i></p>
 
 <br>
 
