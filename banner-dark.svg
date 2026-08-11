@@ -1,0 +1,91 @@
+<svg width="1180" height="300" viewBox="0 0 1180 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0A101F"/>
+    <stop offset="55%" stop-color="#0D1424"/>
+    <stop offset="100%" stop-color="#0A101F"/>
+  </linearGradient>
+  <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.06"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="roundedClip">
+    <rect x="0" y="0" width="1180" height="300" rx="14"/>
+  </clipPath>
+  <clipPath id="nameClip">
+    <rect id="nameClipRect" x="46" y="106" width="0" height="58">
+      <animate attributeName="width" from="0" to="452" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </clipPath>
+</defs>
+
+<g clip-path="url(#roundedClip)">
+  <rect x="0" y="0" width="1180" height="300" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1180" height="300" fill="none" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1.5"/>
+
+  <!-- moving scanline -->
+  <rect x="0" y="-120" width="1180" height="120" fill="url(#scanGrad)">
+    <animate attributeName="y" from="-120" to="300" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="1180" height="42" fill="#0D1424"/>
+  <line x1="0" y1="42" x2="1180" y2="42" stroke="#22D3EE" stroke-opacity="0.15" stroke-width="1"/>
+  <circle cx="26" cy="21" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E"/>
+  <circle cx="66" cy="21" r="6" fill="#28C840"/>
+  <text x="522.8" y="26" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" font-weight="400" fill="#5B6478" textLength="134.4" lengthAdjust="spacingAndGlyphs" >saurabh.sh — zsh</text>
+
+  <!-- LIVE pill -->
+  <g>
+    <rect x="1062" y="11" width="82" height="22" rx="11" fill="#0A101F" stroke="#10B981" stroke-opacity="0.4"/>
+    <circle cx="1080" cy="22" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1090" y="27" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="12" font-weight="600" fill="#10B981" textLength="28.8" lengthAdjust="spacingAndGlyphs" >LIVE</text>
+  </g>
+
+  <!-- prompt line 1 -->
+  <text x="46" y="90" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" font-weight="400" fill="#5B6478" textLength="72.0" lengthAdjust="spacingAndGlyphs" >$ whoami</text>
+
+  <!-- typed name -->
+  <g clip-path="url(#nameClip)">
+    <text x="46" y="140" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="34" font-weight="700" fill="url(#titleGrad)" textLength="387.6" lengthAdjust="spacingAndGlyphs" >Saurabh Raj Shekhar</text>
+  </g>
+  <rect x="46" y="112" width="3" height="34" fill="#22D3EE">
+    <animate attributeName="x" from="46" to="498" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="1.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- role line, fades in after typing completes -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.9s" fill="freeze"/>
+    <text x="46" y="178" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="16" font-weight="500" fill="#94A3B8" textLength="508.8" lengthAdjust="spacingAndGlyphs" >Full-Stack Developer · CSE (Data Science), NSUT Delhi</text>
+  </g>
+
+  <!-- cycling tagline -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.30;0.35" dur="9s" begin="2.6s" repeatCount="indefinite"/>
+    <text x="46" y="224" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" font-weight="500" fill="#10B981" textLength="423.0" lengthAdjust="spacingAndGlyphs" >$ building AI/ML systems for real-world impact_</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.30;0.35" dur="9s" begin="5.6s" repeatCount="indefinite"/>
+    <text x="46" y="224" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" font-weight="500" fill="#A78BFA" textLength="459.0" lengthAdjust="spacingAndGlyphs" >$ shipping full-stack apps with React + TypeScript_</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.30;0.35" dur="9s" begin="8.6s" repeatCount="indefinite"/>
+    <text x="46" y="224" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" font-weight="500" fill="#22D3EE" textLength="405.0" lengthAdjust="spacingAndGlyphs" >$ solving DSA problems, one commit at a time_</text>
+  </g>
+
+  <!-- bottom divider + handle -->
+  <line x1="46" y1="256" x2="1134" y2="256" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="46" y="280" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="400" fill="#5B6478" textLength="163.8" lengthAdjust="spacingAndGlyphs" >github.com/Zephyrex21</text>
+  <text x="1071.6" y="280" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" font-weight="400" fill="#5B6478" textLength="62.4" lengthAdjust="spacingAndGlyphs" >NSUT '28</text>
+
+</g>
+</svg>
