@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=0A101F" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
-<a href="https://saurabhdev-xi.vercel.app/">
+<a href="https://wolfpixel-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
@@ -42,34 +42,147 @@ I also build small developer tools, including a Claude Skill for LeetCode interv
 
 ## Tech Stack
 
+**Languages**
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <br/>
+</p>
+
+**Frontend**
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+**Backend**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+**AI / ML**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge"/>
+</p>
+
+**Databases & Cloud**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+**Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 <br>
 
 ## Featured Projects
 
-<table> <tr> <th align="left" width="50%">Project</th> <th align="left">Stack</th> <th align="left">Links</th> </tr> <tr> <td valign="top"> <b>Agentic RAG Assistant</b><br> <sub>Full-stack retrieval-augmented generation system with hybrid retrieval, LLM reranking, query rewriting, and self-verification — every answer traces back to its exact source.</sub> </td> <td valign="top"><sub>Node.js, React, TypeScript, Groq, Pinecone, Supabase</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/agentic-rag-assistant"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://agentic-rag-assistant-seven.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a> </td> </tr> <tr> <td valign="top"> <b>AI Data Analyst Agent</b><br> <sub>In-browser data analysis agent that writes and self-corrects SQL/Python against your data, with multi-provider LLM failover and zero server-side execution.</sub> </td> <td valign="top"><sub>React, TypeScript, DuckDB-WASM, Pyodide</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/ai-data-analyst-agent"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://ai-data-analyst-agent-one.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a> </td> </tr> <tr> <td valign="top"> <b>Vision Interpretability Studio</b><br> <sub>Zero-cost, in-browser tool for seeing inside a vision model — live Grad-CAM and feature visualization on a ResNet-18 trained from scratch, running entirely client-side.</sub> </td> <td valign="top"><sub>React, TypeScript, ONNX Runtime Web, PyTorch</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/vision-interpretability-studio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://vision-interpretability-studio.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a> </td> </tr> <tr> <td valign="top"> <b>Urban Heat Mitigation</b><br> <sub>AI/ML system analyzing urban heat islands across Indian cities and optimizing cooling strategies. Built for ISRO BAH 2026.</sub> </td> <td valign="top"><sub>Python, XGBoost, React</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/urban-heat-mitigation"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://urban-heat-mitigation-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a> </td> </tr> <tr> <td valign="top"> <b>Cryptex File Sharing</b><br> <sub>Secure, token-based file sharing platform built with the MERN stack and Supabase Storage.</sub> </td> <td valign="top"><sub>Node.js, Express, MongoDB, Supabase</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/cryptex-file-sharing"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://cryptex-file-sharing.onrender.com/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a> </td> </tr> <tr> <td valign="top"> <b>Context Engineering Toolkit</b><br> <sub>Full context-engineering pipeline — selection, compression, summarization, and evaluation — built on a genuinely $0 infrastructure stack.</sub> </td> <td valign="top"><sub>React, Node.js, Express, Tailwind CSS</sub></td> <td valign="top"> <a href="https://github.com/Zephyrex21/context-engineering-toolkit"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> </td> </tr> </table> <p align="center"><sub><a href="https://saurabhdev-xi.vercel.app/">View more projects on my portfolio</a></sub></p> <br>
+<table>
+<tr>
+<th align="left" width="50%">Project</th>
+<th align="left">Stack</th>
+<th align="left">Links</th>
+</tr>
+
+<tr>
+<td valign="top">
+<b>Agentic RAG Assistant</b><br>
+<sub>Full-stack retrieval-augmented generation system with hybrid retrieval, LLM reranking, query rewriting, and self-verification — every answer traces back to its exact source.</sub>
+</td>
+<td valign="top"><sub>Node.js, React, TypeScript, Groq, Pinecone, Supabase</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/agentic-rag-assistant"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://agentic-rag-assistant-seven.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<b>AI Data Analyst Agent</b><br>
+<sub>In-browser data analysis agent that writes and self-corrects SQL/Python against your data, with multi-provider LLM failover and zero server-side execution.</sub>
+</td>
+<td valign="top"><sub>React, TypeScript, DuckDB-WASM, Pyodide</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/ai-data-analyst-agent"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://ai-data-analyst-agent-one.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<b>Vision Interpretability Studio</b><br>
+<sub>Zero-cost, in-browser tool for seeing inside a vision model — live Grad-CAM and feature visualization on a ResNet-18 trained from scratch, running entirely client-side.</sub>
+</td>
+<td valign="top"><sub>React, TypeScript, ONNX Runtime Web, PyTorch</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/vision-interpretability-studio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://vision-interpretability-studio.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<b>Urban Heat Mitigation</b><br>
+<sub>AI/ML system analyzing urban heat islands across Indian cities and optimizing cooling strategies. Built for ISRO BAH 2026.</sub>
+</td>
+<td valign="top"><sub>Python, XGBoost, React</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/urban-heat-mitigation"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://urban-heat-mitigation-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<b>Cryptex File Sharing</b><br>
+<sub>Secure, token-based file sharing platform built with the MERN stack and Supabase Storage.</sub>
+</td>
+<td valign="top"><sub>Node.js, Express, MongoDB, Supabase</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/cryptex-file-sharing"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://cryptex-file-sharing.onrender.com/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<b>Context Engineering Toolkit</b><br>
+<sub>Full context-engineering pipeline — selection, compression, summarization, and evaluation — built on a genuinely $0 infrastructure stack.</sub>
+</td>
+<td valign="top"><sub>React, Node.js, Express, Tailwind CSS</sub></td>
+<td valign="top">
+<a href="https://github.com/Zephyrex21/context-engineering-toolkit"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+
+</table>
+
+<p align="center"><sub><a href="https://wolfpixel-portfolio.vercel.app/">View more projects on my portfolio</a></sub></p>
+
+<br>
 
 ## GitHub Stats
 
