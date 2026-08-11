@@ -32,11 +32,14 @@
 <br>
 
 ## About
+I build production-grade AI/ML systems and full-stack applications — not tutorials, not demos. 3rd-year B.Tech CSE (Data Science) @ NSUT Delhi, targeting SWE roles at top-tier tech and finance firms.
 
-I'm a 5th semester B.Tech student in CSE (Data Science) at NSUT, Delhi.
-I build full-stack web applications using the MERN stack and React with TypeScript.
-I'm currently developing HeatWatch India, an AI/ML project for ISRO BAH 2026.
-I also build small developer tools, including a Claude Skill for LeetCode interview prep.
+- **AI/ML in production** — built an agentic RAG system with hybrid retrieval + LLM reranking, an in-browser data analyst agent with 5-provider LLM failover (196 passing tests), and a from-scratch ResNet-18 with live Grad-CAM running entirely client-side
+- **Real-world deployment** — HeatWatch India (urban heat ML system) submitted to ISRO Bharatiya Antariksh Hackathon 2026, with satellite data pipelines validated against ground truth
+- **Engineering discipline over demo-ware** — every major project ships with automated test suites, CI pipelines, and honest documentation of trade-offs and known limitations
+- 235+ DSA problems solved in C++ ( Across 3 platforms ), actively building toward SDE interview readiness
+
+If it's in this profile, it's deployed, tested, and I can walk you through every design decision behind it.
 
 <br>
 
