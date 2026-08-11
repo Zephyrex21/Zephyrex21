@@ -31,14 +31,18 @@
 </div>
 <br>
 
+<p align="center"><i>From hybrid-retrieval RAG pipelines to Grad-CAM running live in the browser — I build the parts most portfolios only fake.</i></p>
+
+<br>
+
 ## About
 
 I build production-grade AI/ML systems and full-stack applications — not tutorials, not demos. 3rd-year B.Tech CSE (Data Science) @ NSUT Delhi, targeting SWE roles at top-tier tech and finance firms.
 
-- **AI/ML in production** — built an agentic RAG system with hybrid retrieval + LLM reranking, an in-browser data analyst agent with 5-provider LLM failover (196 passing tests), and a from-scratch ResNet-18 with live Grad-CAM running entirely client-side
-- **Real-world deployment** — HeatWatch India (urban heat ML system) submitted to ISRO Bharatiya Antariksh Hackathon 2026, with satellite data pipelines validated against ground truth
-- **Engineering discipline over demo-ware** — every major project ships with automated test suites, CI pipelines, and honest documentation of trade-offs and known limitations
-- 225+ DSA problems solved in C++ ( Across 3 platforms ), actively building toward SDE interview readiness
+- 🧠 **AI/ML in production** — built an agentic RAG system with hybrid retrieval + LLM reranking, an in-browser data analyst agent with 5-provider LLM failover (196 passing tests), and a from-scratch ResNet-18 with live Grad-CAM running entirely client-side
+- 🛰️ **Real-world deployment** — HeatWatch India (urban heat ML system) submitted to ISRO Bharatiya Antariksh Hackathon 2026, with satellite data pipelines validated against ground truth
+- ⚙️ **Engineering discipline over demo-ware** — every major project ships with automated test suites, CI pipelines, and honest documentation of trade-offs and known limitations
+- 📊 79+ LeetCode problems solved in C++, actively building toward SDE interview readiness
 
 If it's in this profile, it's deployed, tested, and I can walk you through every design decision behind it.
 
@@ -100,7 +104,7 @@ If it's in this profile, it's deployed, tested, and I can walk you through every
 <tr>
 <td valign="top">
 <b>Agentic RAG Assistant</b><br>
-<img src="https://img.shields.io/badge/11+_Test_Suites-10B981?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/11+_Tests-10B981?style=flat-square"/><br>
 <sub>Full-stack retrieval-augmented generation system with hybrid retrieval, LLM reranking, query rewriting, and self-verification — every answer traces back to its exact source.</sub>
 </td>
 <td valign="top"><sub>Node.js, React, TypeScript, Groq, Pinecone, Supabase</sub></td>
@@ -113,7 +117,7 @@ If it's in this profile, it's deployed, tested, and I can walk you through every
 <tr>
 <td valign="top">
 <b>AI Data Analyst Agent</b><br>
-<img src="https://img.shields.io/badge/196_Tests_Passing-10B981?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/196_Tests-10B981?style=flat-square"/><br>
 <sub>In-browser data analysis agent that writes and self-corrects SQL/Python against your data, with multi-provider LLM failover and zero server-side execution.</sub>
 </td>
 <td valign="top"><sub>React, TypeScript, DuckDB-WASM, Pyodide</sub></td>
