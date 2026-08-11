@@ -32,12 +32,13 @@
 <br>
 
 ## About
+
 I build production-grade AI/ML systems and full-stack applications — not tutorials, not demos. 3rd-year B.Tech CSE (Data Science) @ NSUT Delhi, targeting SWE roles at top-tier tech and finance firms.
 
 - **AI/ML in production** — built an agentic RAG system with hybrid retrieval + LLM reranking, an in-browser data analyst agent with 5-provider LLM failover (196 passing tests), and a from-scratch ResNet-18 with live Grad-CAM running entirely client-side
 - **Real-world deployment** — HeatWatch India (urban heat ML system) submitted to ISRO Bharatiya Antariksh Hackathon 2026, with satellite data pipelines validated against ground truth
 - **Engineering discipline over demo-ware** — every major project ships with automated test suites, CI pipelines, and honest documentation of trade-offs and known limitations
-- 235+ DSA problems solved in C++ ( Across 3 platforms ), actively building toward SDE interview readiness
+- 225+ DSA problems solved in C++ ( Across 3 platforms ), actively building toward SDE interview readiness
 
 If it's in this profile, it's deployed, tested, and I can walk you through every design decision behind it.
 
@@ -45,21 +46,47 @@ If it's in this profile, it's deployed, tested, and I can walk you through every
 
 ## Tech Stack
 
-Languages
+**Languages**
 
-<p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
-Full-Stack
+**Full-Stack**
 
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-AI / ML
+**AI / ML**
 
-<p align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-Databases, Cloud & Tools
+**Databases, Cloud & Tools**
 
-<p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> </p> <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+<br>
 
 ## Featured Projects
 
@@ -73,6 +100,7 @@ Databases, Cloud & Tools
 <tr>
 <td valign="top">
 <b>Agentic RAG Assistant</b><br>
+<img src="https://img.shields.io/badge/11+_Test_Suites-10B981?style=flat-square"/><br>
 <sub>Full-stack retrieval-augmented generation system with hybrid retrieval, LLM reranking, query rewriting, and self-verification — every answer traces back to its exact source.</sub>
 </td>
 <td valign="top"><sub>Node.js, React, TypeScript, Groq, Pinecone, Supabase</sub></td>
@@ -85,6 +113,7 @@ Databases, Cloud & Tools
 <tr>
 <td valign="top">
 <b>AI Data Analyst Agent</b><br>
+<img src="https://img.shields.io/badge/196_Tests_Passing-10B981?style=flat-square"/><br>
 <sub>In-browser data analysis agent that writes and self-corrects SQL/Python against your data, with multi-provider LLM failover and zero server-side execution.</sub>
 </td>
 <td valign="top"><sub>React, TypeScript, DuckDB-WASM, Pyodide</sub></td>
@@ -97,6 +126,7 @@ Databases, Cloud & Tools
 <tr>
 <td valign="top">
 <b>Vision Interpretability Studio</b><br>
+<img src="https://img.shields.io/badge/15_Tests_·_88.2%25_Val_Acc-10B981?style=flat-square"/><br>
 <sub>Zero-cost, in-browser tool for seeing inside a vision model — live Grad-CAM and feature visualization on a ResNet-18 trained from scratch, running entirely client-side.</sub>
 </td>
 <td valign="top"><sub>React, TypeScript, ONNX Runtime Web, PyTorch</sub></td>
@@ -109,6 +139,7 @@ Databases, Cloud & Tools
 <tr>
 <td valign="top">
 <b>Urban Heat Mitigation</b><br>
+<img src="https://img.shields.io/badge/ISRO_BAH_2026_Submission-10B981?style=flat-square"/><br>
 <sub>AI/ML system analyzing urban heat islands across Indian cities and optimizing cooling strategies. Built for ISRO BAH 2026.</sub>
 </td>
 <td valign="top"><sub>Python, XGBoost, React</sub></td>
@@ -133,6 +164,7 @@ Databases, Cloud & Tools
 <tr>
 <td valign="top">
 <b>Context Engineering Toolkit</b><br>
+<img src="https://img.shields.io/badge/45_Tests_·_%240_Infra-10B981?style=flat-square"/><br>
 <sub>Full context-engineering pipeline — selection, compression, summarization, and evaluation — built on a genuinely $0 infrastructure stack.</sub>
 </td>
 <td valign="top"><sub>React, Node.js, Express, Tailwind CSS</sub></td>
