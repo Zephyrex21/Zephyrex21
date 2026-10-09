@@ -42,7 +42,7 @@ I build production-grade AI/ML systems and full-stack applications — not tutor
 - **AI/ML in production** — built an agentic RAG system with hybrid retrieval + LLM reranking, an in-browser data analyst agent with 5-provider LLM failover (196 passing tests), and a from-scratch ResNet-18 with live Grad-CAM running entirely client-side
 - **Real-world deployment** — HeatWatch India (urban heat ML system) submitted to ISRO Bharatiya Antariksh Hackathon 2026, with satellite data pipelines validated against ground truth
 - **Engineering discipline over demo-ware** — every major project ships with automated test suites, CI pipelines, and honest documentation of trade-offs and known limitations
-- 350+ DSA problems solved in C++ (across 3 platforms), actively building toward SDE interview readiness
+- 400+ DSA problems solved in C++ (across 3 platforms), actively building toward SDE interview readiness
 
 If it's in this profile, it's deployed, tested, and I can walk you through every design decision behind it.
 
